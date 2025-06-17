@@ -47,6 +47,12 @@ h1 {
   color: #fff;
 }
 
+.loginInput {
+  outline: none;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
 .todo-input::placeholder {
   color: #ffffff4d;
 }
